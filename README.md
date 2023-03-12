@@ -32,7 +32,7 @@ Email: theheralding@gmail.com <br/>
 Github: https://github.com/YZLoh <br/>
 
 ###  Jimmy - Time Series Forecasting, data visualisation
-Email:  <br/>
+Email:  chinming93@gmail.com<br/>
 Github: https://github.com/Jimmy-Sudoku <br/>
 
 ### Wayne - Frontend
